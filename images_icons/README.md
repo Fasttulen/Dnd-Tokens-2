@@ -160,17 +160,12 @@ preview (15).png
 </td>
 
 <td valign="bottom">
-<img src="./preview (84).png" width="100" height="100"><br>
-preview (84).png
-</td>
-
-</tr>
-<tr>
-<td valign="bottom">
 <img src="./preview (89).png" width="100" height="100"><br>
 preview (89).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (94).png" width="100" height="100"><br>
 preview (94).png
@@ -196,13 +191,13 @@ r_03.png
 scroll_b_02.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./shatter.png" width="100" height="100"><br>
 shatter.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./thaumaturgy.png" width="100" height="100"><br>
 thaumaturgy.png
