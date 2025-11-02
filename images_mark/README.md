@@ -7,6 +7,16 @@
 <table><tr>
 <tr>
 <td valign="bottom">
+<img src="./7 (1).png" width="100" height="100"><br>
+7 (1).png
+</td>
+
+<td valign="bottom">
+<img src="./7 (р1).png" width="100" height="100"><br>
+7 (р1).png
+</td>
+
+<td valign="bottom">
 <img src="./Artur.png" width="100" height="100"><br>
 Artur.png
 </td>
@@ -19,6 +29,18 @@ Borbo.png
 <td valign="bottom">
 <img src="./Crying_Angle.png" width="100" height="100"><br>
 Crying_Angle.png
+</td>
+
+<td valign="bottom">
+<img src="./Daiske.png" width="100" height="100"><br>
+Daiske.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./e7792c4666e2fe82.png" width="100" height="100"><br>
+e7792c4666e2fe82.png
 </td>
 
 <td valign="bottom">
@@ -36,8 +58,6 @@ FloraNEO.png
 Frog1.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Frog2.png" width="100" height="100"><br>
 Frog2.png
@@ -48,6 +68,8 @@ Frog2.png
 Frog3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Frogiii.png" width="100" height="100"><br>
 Frogiii.png
@@ -68,8 +90,6 @@ Frog_Cleric2.png
 Frog_King.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Frog_Pizdec.png" width="100" height="100"><br>
 Frog_Pizdec.png
@@ -80,6 +100,8 @@ Frog_Pizdec.png
 Geia.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Gerald.png" width="100" height="100"><br>
 Gerald.png
@@ -88,6 +110,11 @@ Gerald.png
 <td valign="bottom">
 <img src="./GRIMDARK.png" width="100" height="100"><br>
 GRIMDARK.png
+</td>
+
+<td valign="bottom">
+<img src="./Heranuka.png" width="100" height="100"><br>
+Heranuka.png
 </td>
 
 <td valign="bottom">
@@ -100,13 +127,13 @@ Horror1.png
 Horror2.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./IceDevil.png" width="100" height="100"><br>
 IceDevil.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./IRON_MAIDEN.png" width="100" height="100"><br>
 IRON_MAIDEN.png
@@ -123,8 +150,45 @@ Killer_frog.png
 </td>
 
 <td valign="bottom">
+<img src="./Kira.png" width="100" height="100"><br>
+Kira.png
+</td>
+
+<td valign="bottom">
 <img src="./Klito.png" width="100" height="100"><br>
 Klito.png
+</td>
+
+<td valign="bottom">
+<img src="./Midzube.png" width="100" height="100"><br>
+Midzube.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./Oni.png" width="100" height="100"><br>
+Oni.png
+</td>
+
+<td valign="bottom">
+<img src="./RazmariaNEO1.png" width="100" height="100"><br>
+RazmariaNEO1.png
+</td>
+
+<td valign="bottom">
+<img src="./RazmariaNEO2.png" width="100" height="100"><br>
+RazmariaNEO2.png
+</td>
+
+<td valign="bottom">
+<img src="./Ronin.png" width="100" height="100"><br>
+Ronin.png
+</td>
+
+<td valign="bottom">
+<img src="./Ryok.png" width="100" height="100"><br>
+Ryok.png
 </td>
 
 <td valign="bottom">
