@@ -64,12 +64,22 @@ OMEGAmini3-94x87.jpg
 </td>
 
 <td valign="bottom">
-<img src="./Underdark1.jpg" width="100" height="100"><br>
-Underdark1.jpg
+<img src="./ShinigamiPalace.png" width="100" height="100"><br>
+ShinigamiPalace.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./ShinigamiPalace2.png" width="100" height="100"><br>
+ShinigamiPalace2.png
+</td>
+
+<td valign="bottom">
+<img src="./Underdark1.jpg" width="100" height="100"><br>
+Underdark1.jpg
+</td>
+
 <td valign="bottom">
 <img src="./Underdark2 tower.jpg" width="100" height="100"><br>
 Underdark2 tower.jpg
@@ -90,6 +100,8 @@ Underdark4.1.jpg
 Underdark4.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Underdark5.jpg" width="100" height="100"><br>
 Underdark5.jpg
@@ -100,8 +112,6 @@ Underdark5.jpg
 Underdark6.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Underdark7.jpg" width="100" height="100"><br>
 Underdark7.jpg
@@ -122,6 +132,8 @@ Underdark9.jpg
 WickedWoods.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Аренаjpg.jpg" width="100" height="100"><br>
 Аренаjpg.jpg
@@ -132,8 +144,6 @@ WickedWoods.png
 Бастион а1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Бастион а2.jpg" width="100" height="100"><br>
 Бастион а2.jpg
@@ -154,6 +164,8 @@ WickedWoods.png
 Город 1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Данжен а1.jpg" width="100" height="100"><br>
 Данжен а1.jpg
@@ -164,8 +176,6 @@ WickedWoods.png
 Джунгли 0.1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Джунгли 0.mp4" width="100" height="100"><br>
 Джунгли 0.mp4
@@ -186,6 +196,8 @@ WickedWoods.png
 Джунгли 3.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Джунгли 4.jpg" width="100" height="100"><br>
 Джунгли 4.jpg
@@ -196,8 +208,6 @@ WickedWoods.png
 Джунгли 4a.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Джунгли 5.jpg" width="100" height="100"><br>
 Джунгли 5.jpg
@@ -218,6 +228,8 @@ WickedWoods.png
 ЗмеиныйПик.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Золотой Город 2.jpg" width="100" height="100"><br>
 Золотой Город 2.jpg
@@ -228,8 +240,6 @@ WickedWoods.png
 Золотой Город.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Карета.jpg" width="100" height="100"><br>
 Карета.jpg
@@ -250,6 +260,8 @@ WickedWoods.png
 Корабль.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Логово Зелёной а1.jpg" width="100" height="100"><br>
 Логово Зелёной а1.jpg
@@ -260,8 +272,6 @@ WickedWoods.png
 Логово Зелёной а2.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Ниирдал-Пок.jpg" width="100" height="100"><br>
 Ниирдал-Пок.jpg
@@ -282,6 +292,8 @@ WickedWoods.png
 Подножье Башни.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Рифемист.jpeg" width="100" height="100"><br>
 Рифемист.jpeg
@@ -292,8 +304,6 @@ WickedWoods.png
 Руины 1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Руины 2.jpg" width="100" height="100"><br>
 Руины 2.jpg
