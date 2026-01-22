@@ -22,6 +22,11 @@ Air.png
 </td>
 
 <td valign="bottom">
+<img src="./AKS.png" width="100" height="100"><br>
+AKS.png
+</td>
+
+<td valign="bottom">
 <img src="./Anri.png" width="100" height="100"><br>
 Anri.png
 </td>
@@ -31,13 +36,13 @@ Anri.png
 Artur.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./book (1).jpg" width="100" height="100"><br>
 book (1).jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./book (2).jpg" width="100" height="100"><br>
 book (2).jpg
@@ -63,13 +68,13 @@ book (5).jpg
 book (6).jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./book (7).jpg" width="100" height="100"><br>
 book (7).jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./b_04.png" width="100" height="100"><br>
 b_04.png
@@ -95,13 +100,13 @@ d1a8161a560df7fb61a25cff0e157800.jpg
 DSCF9890.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./DSCF9892.png" width="100" height="100"><br>
 DSCF9892.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./f012ec42368285d695f6b4689f9183af.jpg" width="100" height="100"><br>
 f012ec42368285d695f6b4689f9183af.jpg
@@ -123,6 +128,13 @@ Flora.png
 </td>
 
 <td valign="bottom">
+<img src="./Hans.png" width="100" height="100"><br>
+Hans.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
 <img src="./Image048 (1).png" width="100" height="100"><br>
 Image048 (1).png
 </td>
@@ -132,8 +144,6 @@ Image048 (1).png
 Image049 (1).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Image093.png" width="100" height="100"><br>
 Image093.png
@@ -154,6 +164,8 @@ Image095.png
 Image096.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Image097.png" width="100" height="100"><br>
 Image097.png
@@ -164,8 +176,6 @@ Image097.png
 Image098.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Image099.png" width="100" height="100"><br>
 Image099.png
@@ -177,13 +187,25 @@ Image100.png
 </td>
 
 <td valign="bottom">
+<img src="./Item-202305-Primordial Giant - Replica.png" width="100" height="100"><br>
+Item-202305-Primordial Giant - Replica.png
+</td>
+
+<td valign="bottom">
 <img src="./jasmine.png" width="100" height="100"><br>
 jasmine.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Lifh.png" width="100" height="100"><br>
 Lifh.png
+</td>
+
+<td valign="bottom">
+<img src="./NERET.png" width="100" height="100"><br>
+NERET.png
 </td>
 
 <td valign="bottom">
@@ -196,8 +218,6 @@ Niirdal-Sarqet_-_Clara.png
 Order_moon.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (101).png" width="100" height="100"><br>
 preview (101).png
@@ -208,6 +228,8 @@ preview (101).png
 preview (102).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (102)2.png" width="100" height="100"><br>
 preview (102)2.png
@@ -228,8 +250,6 @@ preview (118).png
 preview (124).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (125).png" width="100" height="100"><br>
 preview (125).png
@@ -240,6 +260,8 @@ preview (125).png
 preview (135).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./preview (137).png" width="100" height="100"><br>
 preview (137).png
@@ -260,8 +282,6 @@ preview (89).png
 preview (94).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./preview (96).png" width="100" height="100"><br>
 preview (96).png
@@ -272,6 +292,8 @@ preview (96).png
 preview (98).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Rozzark.png" width="100" height="100"><br>
 Rozzark.png
@@ -292,8 +314,6 @@ Sarfir.png
 scroll_b_02.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Seven.png" width="100" height="100"><br>
 Seven.png
@@ -304,6 +324,8 @@ Seven.png
 shatter.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SP_DRON.png" width="100" height="100"><br>
 SP_DRON.png
@@ -324,13 +346,18 @@ thaumaturgy.png
 thunderwave.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./TikTik.png" width="100" height="100"><br>
 TikTik.png
 </td>
 
+<td valign="bottom">
+<img src="./Tzoncamatl.png" width="100" height="100"><br>
+Tzoncamatl.png
+</td>
+
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Venced.png" width="100" height="100"><br>
 Venced.png

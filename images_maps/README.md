@@ -22,6 +22,11 @@ canalizatsia.jpg
 </td>
 
 <td valign="bottom">
+<img src="./DungeonGC.jpg" width="100" height="100"><br>
+DungeonGC.jpg
+</td>
+
+<td valign="bottom">
 <img src="./GOLDENCITY 2.jpg" width="100" height="100"><br>
 GOLDENCITY 2.jpg
 </td>
@@ -31,13 +36,13 @@ GOLDENCITY 2.jpg
 GOLDENCITY 3 (underground).jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./GOLDENCITY 4.jpg" width="100" height="100"><br>
 GOLDENCITY 4.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./GOLDENCITY.jpg" width="100" height="100"><br>
 GOLDENCITY.jpg
@@ -63,21 +68,11 @@ GoldenCity_Ch2SuperNightTime.png
 GoldenCity_Under.png
 </td>
 
-<td valign="bottom">
-<img src="./OMEGA130х124.jpg" width="100" height="100"><br>
-OMEGA130х124.jpg
-</td>
-
 </tr>
 <tr>
 <td valign="bottom">
-<img src="./OMEGAmini3-94x87.jpg" width="100" height="100"><br>
-OMEGAmini3-94x87.jpg
-</td>
-
-<td valign="bottom">
-<img src="./ShinigamiPalace.png" width="100" height="100"><br>
-ShinigamiPalace.png
+<img src="./OMEGA130х124.jpg" width="100" height="100"><br>
+OMEGA130х124.jpg
 </td>
 
 <td valign="bottom">
@@ -100,13 +95,13 @@ Underdark2 tower.jpg
 Underdark3.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Underdark4.1.jpg" width="100" height="100"><br>
 Underdark4.1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Underdark4.jpg" width="100" height="100"><br>
 Underdark4.jpg
@@ -132,13 +127,13 @@ Underdark7.jpg
 Underdark8.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Underdark9.jpg" width="100" height="100"><br>
 Underdark9.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./WickedWoods.png" width="100" height="100"><br>
 WickedWoods.png
@@ -164,13 +159,13 @@ WickedWoods.png
 Башня.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Вершина Башни.png" width="100" height="100"><br>
 Вершина Башни.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Город 1.jpg" width="100" height="100"><br>
 Город 1.jpg
@@ -196,13 +191,13 @@ WickedWoods.png
 Джунгли 1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Джунгли 2.jpg" width="100" height="100"><br>
 Джунгли 2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Джунгли 3.jpg" width="100" height="100"><br>
 Джунгли 3.jpg
@@ -228,13 +223,13 @@ WickedWoods.png
 Джунгли 6.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Джунгли 7.jpg" width="100" height="100"><br>
 Джунгли 7.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./ЗмеиныйПик.jpg" width="100" height="100"><br>
 ЗмеиныйПик.jpg
@@ -260,13 +255,13 @@ WickedWoods.png
 Корабль 2.jpeg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Корабль.jpg" width="100" height="100"><br>
 Корабль.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Корабль.png" width="100" height="100"><br>
 Корабль.png
@@ -292,13 +287,13 @@ WickedWoods.png
 Подземье 1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Подземье 2.jpg" width="100" height="100"><br>
 Подземье 2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Подножье Башни.jpg" width="100" height="100"><br>
 Подножье Башни.jpg
@@ -324,8 +319,6 @@ WickedWoods.png
 Руины а1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Руины а2.jpg" width="100" height="100"><br>
 Руины а2.jpg
