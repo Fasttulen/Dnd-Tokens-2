@@ -71,6 +71,11 @@ Echo.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./ent.png" width="100" height="100"><br>
+ent.png
+</td>
+
+<td valign="bottom">
 <img src="./Fire_Angle.png" width="100" height="100"><br>
 Fire_Angle.png
 </td>
@@ -95,13 +100,13 @@ Frog1.png
 Frog2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Frog3.png" width="100" height="100"><br>
 Frog3.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Frogiii.png" width="100" height="100"><br>
 Frogiii.png
@@ -127,13 +132,13 @@ Frog_King.png
 Frog_Pizdec.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Geia.png" width="100" height="100"><br>
 Geia.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Gerald.png" width="100" height="100"><br>
 Gerald.png
@@ -159,13 +164,13 @@ golemus.png
 GRIMDARK.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Hans.png" width="100" height="100"><br>
 Hans.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Heranuka.png" width="100" height="100"><br>
 Heranuka.png
@@ -191,13 +196,13 @@ IceDevil.png
 IRON_MAIDEN.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Juggernaut.png" width="100" height="100"><br>
 Juggernaut.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Killer_frog.png" width="100" height="100"><br>
 Killer_frog.png
@@ -223,13 +228,13 @@ Lure.png
 Magmin.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Mephit.png" width="100" height="100"><br>
 Mephit.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Midzube.png" width="100" height="100"><br>
 Midzube.png
@@ -255,13 +260,13 @@ RazmariaNEO1.png
 RazmariaNEO2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Ronin.png" width="100" height="100"><br>
 Ronin.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Ryok.png" width="100" height="100"><br>
 Ryok.png
@@ -287,13 +292,13 @@ Skelet.png
 Snake1.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./SpinedDevil.png" width="100" height="100"><br>
 SpinedDevil.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Striker.png" width="100" height="100"><br>
 Striker.png
@@ -302,11 +307,6 @@ Striker.png
 <td valign="bottom">
 <img src="./Summon.png" width="100" height="100"><br>
 Summon.png
-</td>
-
-<td valign="bottom">
-<img src="./token_1(2).png" width="100" height="100"><br>
-token_1(2).png
 </td>
 
 <td valign="bottom">

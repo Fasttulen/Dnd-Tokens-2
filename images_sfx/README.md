@@ -123,17 +123,22 @@ GreenFire.png
 </td>
 
 <td valign="bottom">
+<img src="./Image030 (1).png" width="100" height="100"><br>
+Image030 (1).png
+</td>
+
+<td valign="bottom">
 <img src="./lamp.png" width="100" height="100"><br>
 lamp.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./MindSlash.png" width="100" height="100"><br>
 MindSlash.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./point.png" width="100" height="100"><br>
 point.png
@@ -159,13 +164,13 @@ Shot_M2.png
 Shot_M22.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Smoke.png" width="100" height="100"><br>
 Smoke.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Space.png" width="100" height="100"><br>
 Space.png
@@ -191,13 +196,13 @@ Space3_2.png
 Space3_3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./table.png" width="100" height="100"><br>
 table.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./ЫShine.png" width="100" height="100"><br>
 ЫShine.png
