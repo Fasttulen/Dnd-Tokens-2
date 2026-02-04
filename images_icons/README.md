@@ -352,12 +352,17 @@ TikTik.png
 </td>
 
 <td valign="bottom">
-<img src="./token_1(2).png" width="100" height="100"><br>
-token_1(2).png
+<img src="./token_1 (52).png" width="100" height="100"><br>
+token_1 (52).png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./token_1(2).png" width="100" height="100"><br>
+token_1(2).png
+</td>
+
 <td valign="bottom">
 <img src="./token_1(3).png" width="100" height="100"><br>
 token_1(3).png
@@ -383,13 +388,13 @@ token_4(1).png
 Tzoncamatl.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Venced.png" width="100" height="100"><br>
 Venced.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./апра.jpg" width="100" height="100"><br>
 апра.jpg
