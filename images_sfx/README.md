@@ -59,13 +59,45 @@ chesy2.png
 </td>
 
 <td valign="bottom">
+<img src="./circ.png" width="100" height="100"><br>
+circ.png
+</td>
+
+<td valign="bottom">
 <img src="./cloud.png" width="100" height="100"><br>
 cloud.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Cone_Shot.png" width="100" height="100"><br>
 Cone_Shot.png
+</td>
+
+<td valign="bottom">
+<img src="./CR.png" width="100" height="100"><br>
+CR.png
+</td>
+
+<td valign="bottom">
+<img src="./CR0.png" width="100" height="100"><br>
+CR0.png
+</td>
+
+<td valign="bottom">
+<img src="./CR0_Cone.png" width="100" height="100"><br>
+CR0_Cone.png
+</td>
+
+<td valign="bottom">
+<img src="./CR1.png" width="100" height="100"><br>
+CR1.png
+</td>
+
+<td valign="bottom">
+<img src="./CR2.png" width="100" height="100"><br>
+CR2.png
 </td>
 
 </tr>
@@ -103,6 +135,11 @@ Fire_hell.png
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./ForceCircle.png" width="100" height="100"><br>
+ForceCircle.png
+</td>
+
+<td valign="bottom">
 <img src="./FrostHit.png" width="100" height="100"><br>
 FrostHit.png
 </td>
@@ -118,8 +155,20 @@ Golden sword222.png
 </td>
 
 <td valign="bottom">
+<img src="./Graav.png" width="100" height="100"><br>
+Graav.png
+</td>
+
+<td valign="bottom">
 <img src="./GreenFire.png" width="100" height="100"><br>
 GreenFire.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./HolyCircle.png" width="100" height="100"><br>
+HolyCircle.png
 </td>
 
 <td valign="bottom">
@@ -132,8 +181,6 @@ Image030 (1).png
 lamp.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./MindSlash.png" width="100" height="100"><br>
 MindSlash.png
@@ -149,6 +196,8 @@ point.png
 POINT3.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Shot_M.png" width="100" height="100"><br>
 Shot_M.png
@@ -164,8 +213,6 @@ Shot_M2.png
 Shot_M22.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Smoke.png" width="100" height="100"><br>
 Smoke.png
@@ -181,6 +228,8 @@ Space.png
 Space2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Space3.png" width="100" height="100"><br>
 Space3.png
@@ -196,11 +245,31 @@ Space3_2.png
 Space3_3.png
 </td>
 
-</tr>
-<tr>
+<td valign="bottom">
+<img src="./Spark_Explosion.png" width="100" height="100"><br>
+Spark_Explosion.png
+</td>
+
+<td valign="bottom">
+<img src="./Spark_Explosion2.png" width="100" height="100"><br>
+Spark_Explosion2.png
+</td>
+
 <td valign="bottom">
 <img src="./table.png" width="100" height="100"><br>
 table.png
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./WATER.png" width="100" height="100"><br>
+WATER.png
+</td>
+
+<td valign="bottom">
+<img src="./WindHit.png" width="100" height="100"><br>
+WindHit.png
 </td>
 
 <td valign="bottom">
