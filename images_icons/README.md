@@ -448,12 +448,17 @@ r_03.png
 </td>
 
 <td valign="bottom">
-<img src="./Sarfir.png" width="100" height="100"><br>
-Sarfir.png
+<img src="./salamandra.png" width="100" height="100"><br>
+salamandra.png
 </td>
 
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./Sarfir.png" width="100" height="100"><br>
+Sarfir.png
+</td>
+
 <td valign="bottom">
 <img src="./scroll_b_02.png" width="100" height="100"><br>
 scroll_b_02.png
@@ -479,13 +484,13 @@ Spark_Container.png
 SP_DRON.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Tablet.png" width="100" height="100"><br>
 Tablet.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Tekutli.png" width="100" height="100"><br>
 Tekutli.png
@@ -511,13 +516,13 @@ TikTik.png
 token_1 (51).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_1 (52).png" width="100" height="100"><br>
 token_1 (52).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./token_1 (53).png" width="100" height="100"><br>
 token_1 (53).png
@@ -543,13 +548,13 @@ token_2(1).png
 token_3(1).png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./token_4(1).png" width="100" height="100"><br>
 token_4(1).png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Turel.png" width="100" height="100"><br>
 Turel.png
@@ -575,6 +580,8 @@ viliam.png
 Zirrit.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./апра.jpg" width="100" height="100"><br>
 апра.jpg
