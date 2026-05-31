@@ -86,6 +86,11 @@ GoldenCity_Under.png
 </td>
 
 <td valign="bottom">
+<img src="./jungle 6.jpg" width="100" height="100"><br>
+jungle 6.jpg
+</td>
+
+<td valign="bottom">
 <img src="./OMEGA130х124.jpg" width="100" height="100"><br>
 OMEGA130х124.jpg
 </td>
@@ -95,13 +100,13 @@ OMEGA130х124.jpg
 ShinigamiPalace2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Underdark1.jpg" width="100" height="100"><br>
 Underdark1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Underdark2 tower.jpg" width="100" height="100"><br>
 Underdark2 tower.jpg
@@ -127,13 +132,13 @@ Underdark4.jpg
 Underdark5.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Underdark6.jpg" width="100" height="100"><br>
 Underdark6.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Underdark7.jpg" width="100" height="100"><br>
 Underdark7.jpg
@@ -159,13 +164,13 @@ WickedWoods.png
 Аренаjpg.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Бастион а1.jpg" width="100" height="100"><br>
 Бастион а1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Бастион а2.jpg" width="100" height="100"><br>
 Бастион а2.jpg
@@ -191,13 +196,13 @@ WickedWoods.png
 Данжен а1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Джунгли 0.1.jpg" width="100" height="100"><br>
 Джунгли 0.1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Джунгли 0.mp4" width="100" height="100"><br>
 Джунгли 0.mp4
@@ -223,13 +228,13 @@ WickedWoods.png
 Джунгли 4.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Джунгли 4a.jpg" width="100" height="100"><br>
 Джунгли 4a.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Джунгли 5.jpg" width="100" height="100"><br>
 Джунгли 5.jpg
@@ -255,13 +260,13 @@ WickedWoods.png
 Золотой Город 2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Золотой Город.jpg" width="100" height="100"><br>
 Золотой Город.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Карета.jpg" width="100" height="100"><br>
 Карета.jpg
@@ -287,13 +292,13 @@ WickedWoods.png
 Логово Зелёной а1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Логово Зелёной а2.jpg" width="100" height="100"><br>
 Логово Зелёной а2.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Ниирдал-Пок.jpg" width="100" height="100"><br>
 Ниирдал-Пок.jpg
@@ -319,13 +324,13 @@ WickedWoods.png
 Рифемист.jpeg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./Руины 1.jpg" width="100" height="100"><br>
 Руины 1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./Руины 2.jpg" width="100" height="100"><br>
 Руины 2.jpg
